@@ -4,3 +4,6 @@ This is a RouterOS .rsc configuration sample for the topology depicted in the pr
 
 ## Scenario
 There are two LTE devices in my setup, LHG LTE Kits, labeled as LTE_1 and LTE_2. Additionally, there are two MikroTik routers, RB4011 and RB951, labeled as HQ and BR1. The LTE devices receive private IP ranges automatically assigned by the private APN provider. This configuration has been tested on RouterOS 7.9.
+
+![](https://github.com/amirhne/ospf-over-wireguard-behind-nat-routeros/blob/main/scenario.png)
+
